@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\kalkulatorSederhana.exe.config
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\kalkulatorSederhana.exe
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\kalkulatorSederhana.pdb
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.Form1.resources
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.Properties.Resources.resources
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.exe
+C:\Users\HP\source\repos\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.pdb
